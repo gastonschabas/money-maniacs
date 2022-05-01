@@ -10,7 +10,7 @@ class HelloTest extends AnyFunSuite with Matchers {
   }
 
   test("1 should not be equals 2") {
-    1 should not be(2)
+    1 should not be 2
   }
 
 }
