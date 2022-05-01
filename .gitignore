@@ -1,0 +1,13 @@
+*.class
+*.log
+
+.idea/
+target/
+
+.scannerwork/
+
+.bsp/
+.gradle/
+
+.metals/
+.vscode/
